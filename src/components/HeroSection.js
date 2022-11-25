@@ -12,7 +12,7 @@ const HeroSection = () => {
      <div className="hero-content text-center">
        <div>
           <img src={me} className="w-24 h-24 md:w-36 md:h-36 rounded-full block mx-auto mb-10 ring-4 ring-amber-500" alt="This handsome man is me"/>
-          <h1 className='text-3xl md:text-4xl lg:text-7xl font-black text-slate-300'>Assalamualaikum</h1>
+          <h1 className='text-3xl md:text-4xl lg:text-7xl font-black text-slate-300'>Assalamu'alaikum</h1>
          <TypedAnimation />
          <Social />
        </div>
