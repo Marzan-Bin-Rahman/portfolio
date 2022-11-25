@@ -3,7 +3,7 @@ import Typed from "react-typed"
 const TypedAnimation = () => {
   return (
     <>
-    <Typed className="text-lg md:text-3xl lg:text-4xl font-bold w-full block font-mono text-emerald-400"
+    <Typed className="text-lg md:text-3xl lg:text-4xl font-bold w-full block font-mono text-emerald-400 mt-5"
       strings={[
             "I am Marzan",
             "I am a Frontend Web Developer",
