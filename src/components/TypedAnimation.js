@@ -1,4 +1,7 @@
 import React from 'react'
+
+// third party components
+
 import Typed from "react-typed"
 const TypedAnimation = () => {
   return (
