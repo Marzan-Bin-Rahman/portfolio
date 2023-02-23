@@ -12,31 +12,31 @@ const Experience = () => {
                          className="vertical-timeline-element--work"
                          contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                          contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-                         date="2021-2023"
+                         date="2022-Present"
                          iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                          icon={<CgBriefcase />}
                     >
                          <h3 className="vertical-timeline-element-title">Community Manager</h3>
                          <h4 className="vertical-timeline-element-subtitle">Programming Hero</h4>
                          <p>
-                         As a volunteer for a Discord server focused on coding and programming, my main responsibility was to assist members with fixing bugs in their code. This involved me reviewing code, identifying errors, and providing suggestions and guidance on how to fix them. To be successful in this role, I have a strong understanding of coding concepts and am able to communicate effectively with members of varying skill levels. Additionally, I am willing to collaborate with other volunteers and maintain a positive and helpful attitude.
+                         As a coding Discord volunteer, I help members fix bugs in their code by reviewing, identifying errors, and providing guidance. I possess strong coding knowledge and communication skills, and work collaboratively with other volunteers.
                          </p>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
                          className="vertical-timeline-element--work"
                          contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                          contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-                         date="2021-2023"
+                         date="2021-2022"
                          iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                          icon={<CgBriefcase />}
                     >
-                         <h3 className="vertical-timeline-element-title">Art Director</h3>
-                         <h4 className="vertical-timeline-element-subtitle">San Francisco, CA</h4>
+                         <h3 className="vertical-timeline-element-title">Inspecting Hero</h3>
+                         <h4 className="vertical-timeline-element-subtitle">Programming Hero</h4>
                          <p>
-                              Creative Direction, User Experience, Visual Design, SEO, Online Marketing
+                              Oversaw a team of total 6 translators and also translated more than 50 files from English to Bengali
                          </p>
                     </VerticalTimelineElement>
-                    <VerticalTimelineElement
+                    {/* <VerticalTimelineElement
                          className="vertical-timeline-element--work"
                          contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                          contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
@@ -63,20 +63,17 @@ const Experience = () => {
                          <p>
                               User Experience, Visual Design
                          </p>
-                    </VerticalTimelineElement>
+                    </VerticalTimelineElement> */}
                     <VerticalTimelineElement
                          className="vertical-timeline-element--education"
                          contentStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
                          contentArrowStyle={{ borderRight: '7px solid  rgb(233, 30, 99)' }}
-                         date="April 2013"
+                         date="2023-Present"
                          iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
                          icon={<CgReadme />}
                     >
-                         <h3 className="vertical-timeline-element-title">Content Marketing for Web, Mobile and Social Media</h3>
-                         <h4 className="vertical-timeline-element-subtitle">Online Course</h4>
-                         <p>
-                              Strategy, Social Media
-                         </p>
+                         <h3 className="vertical-timeline-element-title">Higher Secondary Certificate at</h3>
+                         <h4 className="vertical-timeline-element-subtitle">Kurigram Government College</h4>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
                          className="vertical-timeline-element--education"
@@ -86,24 +83,10 @@ const Experience = () => {
                          iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
                          icon={<CgReadme />}
                     >
-                         <h3 className="vertical-timeline-element-title">Agile Development Scrum Master</h3>
-                         <h4 className="vertical-timeline-element-subtitle">Certification</h4>
+                         <h3 className="vertical-timeline-element-title">Secondary School Certificate</h3>
+                         {/* <h4 className="vertical-timeline-element-subtitle">Kurigram Govt. High School</h4> */}
                          <p>
-                              Creative Direction, User Experience, Visual Design
-                         </p>
-                    </VerticalTimelineElement>
-                    <VerticalTimelineElement
-                         className="vertical-timeline-element--education"
-                         contentStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
-                         contentArrowStyle={{ borderRight: '7px solid  rgb(233, 30, 99)' }}
-                         date="2002 - 2006"
-                         iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
-                         icon={<CgReadme />}
-                    >
-                         <h3 className="vertical-timeline-element-title">Bachelor of Science in Interactive Digital Media Visual Imaging</h3>
-                         <h4 className="vertical-timeline-element-subtitle">Bachelor Degree</h4>
-                         <p>
-                              Creative Direction, Visual Design
+                         Kurigram Govt. High School
                          </p>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
