@@ -3,13 +3,13 @@ import SkillBar from 'react-skillbars';
 
 const Skills = () => {
      const skills = [
-          { type: 'Python', level: 80 },
-          { type: 'Django', level: 75 },
-          { type: 'Posgresql', level: 55 },
-          { type: 'MySQL', level: 50 },
-          { type: 'Azure', level: 20 },
-          { type: 'Docker', level: 45 },
-          { type: 'Linux', level: 75 },
+          { type: 'HTML', level: 75 },
+          { type: 'CSS', level: 60 },
+          { type: 'Bootstrap', level: 80 },
+          { type: 'TailwindCSS', level: 85 },
+          { type: 'JavaScript', level: 50 },
+          { type: 'ReactJS', level: 45 },
+          { type: 'Linux', level: 55 },
      ];
      const colors = {
           bar: "#eeb90b",
