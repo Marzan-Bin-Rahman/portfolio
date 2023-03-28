@@ -7,7 +7,7 @@ export const contacts={
      title: "Let's connect"
 } 
 
-const projectLists =[
+export const projectLists =[
      {
           id: 1,
           name: 'JB Mavericks',
