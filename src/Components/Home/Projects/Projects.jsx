@@ -3,9 +3,9 @@ import React from 'react'
 
 import Project from './Project';
 import {projectLists} from './../../Data'
+
 const Blogs = () => {
 
-console.log(projectLists)
      return (
           <div className={`py-10 sm:py-12 md:py-14 lg:py-14 flex flex-col font-poppins font-semibold leading-relaxed`} id='projects'>
                <h1 className={`text-center text-4xl md:text-5xl lg:text-6xl text-lightYellow pb-16 md:pb-20 lg:pb-24`}>Projects</h1>
