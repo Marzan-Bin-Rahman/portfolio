@@ -2,7 +2,7 @@ import React from 'react'
 
 
 import Project from './Project';
-
+import projectLists from './../../Data'
 const Blogs = () => {
 
 
